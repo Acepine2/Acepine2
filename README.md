@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Acepine2
 - 👀 I’m interested in lots of cool stuff.
-- 🌱 I’m currently learning c++ pytho and web devlopment
+- 🌱 I’m currently learning c++ python and web devlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
